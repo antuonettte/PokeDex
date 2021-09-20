@@ -68,7 +68,7 @@ class Pokedex:
 
 
 
-dex = Pokedex(1)
+dex = Pokedex(30)
 dex.generatePokemon()
 dex.addToDex()
 
